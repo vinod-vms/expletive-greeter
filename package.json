@@ -1,0 +1,23 @@
+{
+  "name": "expletivegreeter",
+  "version": "1.0.0",
+  "description": "Enter your enemy's name and an expletive, and the module returns the expletive + name.",
+  "main": "expletive-greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinod-vms/expletive-greeter.git"
+  },
+  "keywords": [
+    "expletive",
+    "greeter"
+  ],
+  "author": "Vinod Mathew Sebastian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinod-vms/expletive-greeter/issues"
+  },
+  "homepage": "https://github.com/vinod-vms/expletive-greeter#readme"
+}
